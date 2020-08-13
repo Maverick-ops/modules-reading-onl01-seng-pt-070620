@@ -8,7 +8,7 @@ class Kid
 #end
 
    include
-   
+   FancyDance::InstanceMethods
  
   attr_accessor :name
  
